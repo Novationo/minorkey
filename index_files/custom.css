@@ -1,5 +1,4 @@
 @import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@400;500;600;700&display=swap');
-/*amongusdrip.org*/
 html {
     background-color: #333333
 }
@@ -8,21 +7,12 @@ h1 {
     font-weight: 900;
     color: #f2f2f2;
     font-size: 36px;
-    margin: 1em auto;
-    max-width: 1000px;
-    padding: .1em;
-    line-height: 0.1;
-    text-align: center
 }
 h2 {
     font-family: Source Code Pro;
     font-weight: 700;
     color: #F6F6F6;
     font-size: 22px;
-    margin: 1em auto;
-    max-width: 1000px;
-    padding: .1em;
-    line-height: 0.1;
     text-align: center
 }
 .body {
@@ -30,10 +20,6 @@ h2 {
     font-weight: 400;
     color: #F6F6F6;
     font-size: 16px;
-    margin: 1em auto;
-    max-width: 800px;
-    padding: 1em;
-    line-height: 1.4;
     text-align: center
 }
 p {
@@ -41,10 +27,6 @@ p {
     font-weight: 400;
     color: #F6F6F6;
     font-size: 16px;
-    margin: .05em auto;
-    max-width: 800px;
-    padding: .05em;
-    line-height: 1.35;
     text-align: center
 }
 p2 {
@@ -52,10 +34,6 @@ p2 {
     font-weight: 400;
     color: #73C48F;
     font-size: 16px;
-    margin: .05em auto;
-    max-width: 800px;
-    padding: 2em;
-    line-height: 1.35;
     text-align: center
 }
 a {
@@ -79,10 +57,6 @@ a:visited {
     font-weight: 400;
     color: #ca2e2e;
     font-size: 16px;
-    margin: .05em auto;
-    max-width: 800px;
-    padding: .1em;
-    line-height: 1.35;
     text-align: center
 }
 p4 {
@@ -90,9 +64,5 @@ p4 {
     font-weight: 400;
     color: #83c473;
     font-size: 16px;
-    margin: .05em auto;
-    max-width: 800px;
-    padding: .1em;
-    line-height: 1.35;
     text-align: center
 }
